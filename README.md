@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Board Overview](Images/media__1772636528724.png)
+![Interactive 3D View](Images/ImageToStl.com_3D_PCB_RP2040_2026-03-04.step.gif)
 
 This repository contains the schematic and PCB design files for a custom-built development board based on the Raspberry Pi RP2040 microcontroller. The board adopts a form factor and pinout heavily inspired by the classic Raspberry Pi Pico, but is built from the ground up to integrate modern features like USB Type-C and custom power delivery. 
 
@@ -13,10 +13,6 @@ This repository contains the schematic and PCB design files for a custom-built d
 *   **Power regulation:** 3.3V, 500mA+ LDO regulator (ME6211) providing stable power from 5V VBUS
 *   **User controls:** Dedicated RESET and BOOTSEL buttons for seamless firmware uploading and system resets without unplugging the cable.
 *   **Debug/Programming:** Exposed SWD (Serial Wire Debug) header 
-
-## 3D Model
-
-<div class="sketchfab-embed-wrapper"> <iframe title="PCB_RP2040_OnionDas" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d368cef767ff4db2a9ce1f4dd96cd2cd/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/pcb-rp2040-oniondas-d368cef767ff4db2a9ce1f4dd96cd2cd?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> PCB_RP2040_OnionDas </a> by <a href="https://sketchfab.com/thescienceloop?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> thescienceloop </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## Images
 
@@ -52,7 +48,6 @@ graph TD
  ┃ ┃ ┗ 📂 SCH_RP2040
  ┃ ┃   ┗ 📜 1_SCH_RP2040.schdoc
  ┃ ┣ 📜 PCB_RP2040.pcbdoc
- ┃ ┗ 📜 ImageToStl.com_3D_PCB_RP2040_2026-03-04.stl
  ┣ 📂 Images
  ┃ ┣ 🖼️ media__1772636528703.png
  ┃ ┣ 🖼️ media__1772636528724.png
@@ -104,4 +99,3 @@ To program the board:
 ## Files Included
 *   [📄 Schematic Source (.SchDoc)](Hardware/PCB/SCH_RP2040/1_SCH_RP2040.schdoc)
 *   [📂 PCB Design Source (.PcbDoc)](Hardware/PCB_RP2040.pcbdoc)
-*   [🕹️ 3D Model (.STL)](Hardware/ImageToStl.com_3D_PCB_RP2040_2026-03-04.stl)
