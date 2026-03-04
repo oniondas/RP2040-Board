@@ -13,8 +13,7 @@ This repository contains the schematic and PCB design files for a custom-built d
 
 ## 3D Model
 
-Explore the interactive 3D model of the board directly in your browser. GitHub natively supports 3D rendering for STL files!
-*   [🕹️ View Interactive 3D Model (.stl)](Hardware/ImageToStl.com_3D_PCB_RP2040_2026-03-04.stl)
+<div class="sketchfab-embed-wrapper"> <iframe title="PCB_RP2040_OnionDas" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/d368cef767ff4db2a9ce1f4dd96cd2cd/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/pcb-rp2040-oniondas-d368cef767ff4db2a9ce1f4dd96cd2cd?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> PCB_RP2040_OnionDas </a> by <a href="https://sketchfab.com/thescienceloop?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> thescienceloop </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=d368cef767ff4db2a9ce1f4dd96cd2cd" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## Images
 
