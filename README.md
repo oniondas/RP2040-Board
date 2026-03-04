@@ -1,6 +1,9 @@
 ﻿# Custom RP2040 Development Board
 
 ## Overview
+
+![Board Overview](Images/media__1772636528724.png)
+
 This repository contains the schematic and PCB design files for a custom-built development board based on the Raspberry Pi RP2040 microcontroller. The board adopts a form factor and pinout heavily inspired by the classic Raspberry Pi Pico, but is built from the ground up to integrate modern features like USB Type-C and custom power delivery. 
 
 ## Key Features
