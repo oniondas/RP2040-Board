@@ -1,0 +1,16 @@
+# Gemini/Antigravity AI artifacts
+*.metadata.json
+*.resolved
+*.resolved.*
+
+# Windows / OS files
+Thumbs.db
+desktop.ini
+
+# Altium / PCB designer temporary files
+History/
+Logs/
+*.LOG
+*.zip
+*.TMP
+*.~*
